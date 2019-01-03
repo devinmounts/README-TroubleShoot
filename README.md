@@ -14,3 +14,6 @@
 
 ## React
   *Sticky: https://mattgaskey.com/blog/sticky-nav-in-react/
+  
+## Technical Interviews
+   *https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af
